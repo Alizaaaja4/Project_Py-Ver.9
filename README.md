@@ -13,4 +13,4 @@ Grades is a simple program designed to assist in calculating practical practicum
 ### Run my Programs with
     python Grades.py
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=424490&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=898121&height=120&section=footer"/>
